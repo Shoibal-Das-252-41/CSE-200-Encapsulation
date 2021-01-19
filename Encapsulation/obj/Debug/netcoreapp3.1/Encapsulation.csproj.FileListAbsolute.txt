@@ -1,0 +1,13 @@
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csprojAssemblyReference.cache
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+E:\Tutorial\Visual C# Code\Encapsulation\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache
